@@ -1,0 +1,11 @@
+.Rproj.user
+.Rhistory
+.RData
+.Rprofile
+.venv*
+.DS_Store
+.gitingore
+.Ruserdata
+PDFS/
+renv*
+Thesis.Rproj
